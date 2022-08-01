@@ -1,0 +1,11 @@
+.card-body1{
+    position: absolute;
+    top: 65%;
+    left: 7%;
+}
+.opacity{
+ opacity: 0.9;
+}
+.opacity:hover {
+    opacity: 1.0;
+  }

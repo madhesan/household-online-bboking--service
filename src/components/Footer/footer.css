@@ -1,0 +1,14 @@
+.main-footer{
+    background:#343a40;
+    padding-top: 1rem;
+    /* padding-bottom: 0.5rem; */
+    color:#fff ;
+}
+
+.footer-bottom{
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+}
+.para{
+   color: #343a40; 
+}
